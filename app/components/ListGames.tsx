@@ -25,27 +25,20 @@ function ListGames({gameType,setGameType, customStyle}: Props) {
                 <SelectContent>
                 <SelectGroup>
                 <SelectLabel>Games</SelectLabel>
-                {/* <SelectItem value="ABIA SPECIAL">ABIA SPECIAL</SelectItem>
-                <SelectItem value="ABA BONANZA">ABA BONANZA</SelectItem>
-                <SelectItem value="AKWA IBOM SPECIAL">AKWA IBOM SPECIAL</SelectItem>
-                <SelectItem value="ANAMBRA SPECIAL">ANAMBRA SPECIAL</SelectItem>
-                <SelectItem value="BLESSED SUNDAY">BLESSED SUNDAY</SelectItem>
-                <SelectItem value="CLUBMASTER">CLUBMASTER</SelectItem>
-                <SelectItem value="CROSS RIVERS SPECIAL">CROSS RIVERS SPECIAL</SelectItem>
-                <SelectItem value="DREAM NIGHT">DREAM NIGHT</SelectItem>
-                <SelectItem value="ENUGU SPECIAL">ENUGU SPECIAL</SelectItem>
-                <SelectItem value="GOOD NIGHT">GOOD NIGHT</SelectItem>
-                <SelectItem value="INTERNATIONAL">INTERNATIONAL</SelectItem>
-                <SelectItem value="JACKPOT">JACKPOT</SelectItem>
-                <SelectItem value="ONITSHA SPECIAL">ONITSHA SPECIAL</SelectItem>
-                <SelectItem value="PEOPLES">PEOPLES</SelectItem>
-                <SelectItem value="RNS SPECIAL">RNS SPECIAL</SelectItem>
-                <SelectItem value="SAWAKI">SAWAKI</SelectItem>
-                <SelectItem value="RNS NAIJA">RNS NAIJA</SelectItem>
-                <SelectItem value="RIVERS SPECIAL">RIVERS SPECIAL</SelectItem>
-                <SelectItem value="SUNRISE">SUNRISE</SelectItem> */}
-
-                {/* <SelectItem value="MONDAY SPECIAL EAST">MONDAY SPECIAL EAST</SelectItem> */}
+                <SelectItem value="5/39 DIRECT FRIDAY">5/39 DIRECT FRIDAY</SelectItem>
+                <SelectItem value="5/39 DIRECT THURSDAY">5/39 DIRECT THURSDAY</SelectItem>
+                <SelectItem value="5/39 DIRECT WEDNESDAY">5/39 DIRECT WEDNESDAY</SelectItem>
+                <SelectItem value="WEDNESDAY NOONRUSH">WEDNESDAY NOONRUSH</SelectItem>
+                <SelectItem value="SUNDAY ASEDA">SUNDAY ASEDA</SelectItem>
+                <SelectItem value="THURSDAY NOONRUSH">THURSDAY NOONRUSH</SelectItem>
+                <SelectItem value="SATURDAY NOONRUSH">SATURDAY NOONRUSH</SelectItem>
+                <SelectItem value="MONDAY NOONRUSH">MONDAY NOONRUSH</SelectItem>
+                <SelectItem value="TUESDAY NOONRUSH">TUESDAY NOONRUSH</SelectItem>
+                <SelectItem value="RIDAY NOONRUSH">RIDAY NOONRUSH</SelectItem>
+                <SelectItem value="5/39 DIRECT SATURDAY">5/39 DIRECT SATURDAY</SelectItem>
+                <SelectItem value="5/39 DIRECT TUESDAY">5/39 DIRECT TUESDAY</SelectItem>
+                <SelectItem value="5/39 DIRECT MONDAY">5/39 DIRECT MONDAY</SelectItem>
+                
 
                 <SelectItem value="MONDAY SPECIAL">MONDAY SPECIAL</SelectItem>
                 <SelectItem value="VAG MONDAY">VAG MONDAY</SelectItem>
